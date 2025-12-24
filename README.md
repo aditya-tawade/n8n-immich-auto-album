@@ -1,7 +1,5 @@
 # 🚀 Auto-add recognized faces to a specific Immich Album (n8n)
 
-Hi everyone,
-
 I created an automation in **n8n** that checks for new photos of a specific person (using Immich's facial recognition) and automatically adds them to a specific Album.
 
 This is perfect for automatically sharing photos of your kids, partner, or pets without manually selecting them every time.
